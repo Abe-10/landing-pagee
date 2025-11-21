@@ -1,0 +1,4 @@
+- [x] Add useState for isSidebarOpen in dashboard/page.tsx
+- [x] Add toggle button in header
+- [x] Add sidebar div with conditional classes
+- [x] Add sidebar content (menu items)
